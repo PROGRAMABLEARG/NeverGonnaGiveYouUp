@@ -91,6 +91,8 @@
 #define NOTE_DS8 4978
 #define REST      0
 
+MeBuzzer buzzer;
+
 int tempo = 114;
 int melody[] = {
 
